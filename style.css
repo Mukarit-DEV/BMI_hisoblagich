@@ -1,0 +1,38 @@
+body{
+    background-color: #000;
+}
+
+*{
+    display: block;
+    color: pink;
+    text-align: center;
+}
+input{
+    margin: 20px auto;
+    font-size: 24px;
+    border-radius:5px;
+    background-color: #000;
+}
+button{
+    background-color: pink;
+    color: black;
+    font-size: 48px;
+    border-radius: 10px;
+    margin: 10px auto;
+}
+h2{
+    font-size: 56px;
+}
+.container{
+    padding: 20px;
+    border: 1px inset pink;
+    margin: 10px 5% 10px 5%;
+}
+#natija{
+    padding: 20px;
+    border: 1px inset pink;
+    margin: 10px 10% 10px 10%;
+    background-color: pink;
+    color: #000;
+    font-family: monospace;
+}
