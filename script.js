@@ -26,5 +26,5 @@ function bmi() {
     } else {
         natija.textContent = (`${ism} ${familiya} ning BMI si ${bmi}. Siz ${d}siz. Siz parxez qilishingiz zarur !!!`);
     
-    natija.textContent = (`${ism} ${familiya} ning BMI si ${bmi}`);
+    
 }
